@@ -1,0 +1,42 @@
+[
+  {
+    "gameName": "Stellar Blade",
+    "displayName": "Stellar Blade ",
+    "steamUsername": "dwknj27356",
+    "steamPassword": "gcqix19883",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/header.jpg?t=1750958648",
+    "drm": ""
+  },
+  {
+    "gameName": "ARK: Survival Evolved",
+    "displayName": "ARK: Survival Evolved ",
+    "steamUsername": "misha_nastusenko",
+    "steamPassword": "0500479142Misha",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/header.jpg?t=1748884377",
+    "drm": ""
+  },
+  {
+    "gameName": "ARK: Survival Evolved",
+    "displayName": "ARK: Survival Evolved ",
+    "steamUsername": "folomon55x",
+    "steamPassword": "kolobok44884",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/header.jpg?t=1748884377",
+    "drm": ""
+  },
+  {
+    "gameName": "ELDEN RING",
+    "displayName": "ELDEN RING",
+    "steamUsername": "kokoteska09",
+    "steamPassword": "replofot34",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg?t=1748630546",
+    "drm": ""
+  },
+  {
+    "gameName": "Grand Theft Auto V Legacy",
+    "displayName": "Grand Theft Auto V Legacy",
+    "steamUsername": "Anjay",
+    "steamPassword": "sadsasa",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg?t=271590",
+    "drm": "Rockstar Launcher"
+  }
+]
